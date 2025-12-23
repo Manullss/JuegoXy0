@@ -1,5 +1,5 @@
-**Proyecto X y 0**
-Autor: Manuel Edgardo Barahona - Proyecto de practica educativa
+##Proyecto X y 0 
+Autor: > Manuel Edgardo Barahona - Proyecto de practica educativa
 
 ![gif_tictac](https://github.com/user-attachments/assets/91114442-ba60-4b2c-96b5-505c5df0b481)
 
@@ -9,10 +9,11 @@ El juego permite seleccionar entre X y O en cada casilla y muestra visualmente c
 
 🧩 Características
 Interfaz gráfica creada con Tkinter
-Uso de imágenes para:
--Tablero
--Fichas X y O
-Detección de clics del mouse
+Uso de imágenes para: 
+-Tablero  
+-Fichas X y O  
+Detección de clics del mouse  
+
 Cambio de ficha en una misma casilla (X → O → vacío)
 Detección automática de:
 -Líneas horizontales
@@ -20,12 +21,15 @@ Detección automática de:
 -Diagonales
 Dibujo de una línea roja cuando hay 3 en línea
 
-Requisitos
+Requisitos  
 -Python 3.8 o superior
 
-Librerías:
--tkinter (incluida por defecto en Python)
+Librerías: 
+```
+-tkinter (incluida por defecto en Python)  
 -Pillow
+```
+
 
 📚 Tecnologías usadas
 -Python
