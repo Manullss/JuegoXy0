@@ -13,13 +13,12 @@ Uso de imágenes para:
 -Tablero  
 -Fichas X y O  
 Detección de clics del mouse  
-
-Cambio de ficha en una misma casilla (X → O → vacío)
+Cambio de ficha en una misma casilla (X → O → vacío)  
 Detección automática de:
--Líneas horizontales
--Líneas verticales
--Diagonales
-Dibujo de una línea roja cuando hay 3 en línea
+-Líneas horizontales  
+-Líneas verticales  
+-Diagonales  
+Dibujo de una línea roja cuando hay 3 en línea 
 
 Requisitos  
 -Python 3.8 o superior
@@ -31,9 +30,10 @@ Librerías:
 ```
 
 
-📚 Tecnologías usadas
--Python
--Tkinter
--Pillow (PIL)
+📚 Tecnologías usadas  
+-Python  
+-Tkinter  
+-Pillow (PIL)  
 
-Este proyecto está pensado como ejercicio de aprendizaje, no como una versión final o competitiva del juego.
+
+<ins> Este proyecto está pensado como ejercicio de aprendizaje, no como una versión final o competitiva del juego. </ins>
