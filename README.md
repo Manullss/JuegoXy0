@@ -1,4 +1,4 @@
-## Proyecto X y 0 
+## Proyecto X y 0           &nbsp; &nbsp; &nbsp; &nbsp; ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 >Autor: Manuel Edgardo Barahona - Proyecto de practica educativa
 
 ![gif_tictac](https://github.com/user-attachments/assets/91114442-ba60-4b2c-96b5-505c5df0b481)
